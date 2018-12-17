@@ -284,7 +284,13 @@ http://translate.sourceforge.net/wiki/pootle/live_servers
 
 ​	编辑区中，可以选择编辑器模式，分为details，details(read only)，normal，normal(readonly)。其中details和normal的界面区别不大，仅是前者会将文件查看区展开，字体显示现对于后者变小一些。编辑区也设有翻译文件字号方大和缩小功能。设有reset grid功能，可以重新划分单元格，但划分过程是后台自动完成的。包含的列有Nr.，autostatus，Matchrate，Source text，Target text(at time of import)，Target text，comments，status，QM，Last editor。所有列都可以被过滤和排序，可以组合来自多个列的筛选器。对术语库，或翻译记忆库中有的内容进行不同颜色下划线标识。
 
+![](F:\桌面文件夹汇总\研究生课程\翻译技术原理与实践\讨论题\第四次\Communication\pic\bianjiqu01.png)
 
+![bianjiqu02](F:\桌面文件夹汇总\研究生课程\翻译技术原理与实践\讨论题\第四次\Communication\pic\bianjiqu02.png)
+
+![bianjiqu03](F:\桌面文件夹汇总\研究生课程\翻译技术原理与实践\讨论题\第四次\Communication\pic\bianjiqu03.png)
+
+![bianjiqu04](F:\桌面文件夹汇总\研究生课程\翻译技术原理与实践\讨论题\第四次\Communication\pic\bianjiqu04.png)
 
 ​	片段内容显示区包括术语查询、译文评级评分。
 
