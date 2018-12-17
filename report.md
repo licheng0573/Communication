@@ -98,7 +98,7 @@ https://wiki.openoffice.org/wiki/Pootle_User_Guide
 
 **Official Pootle Translate server used by ASF projects:**
 
-![ASF Translate service](pic/ASF Translate service-1.jpg)
+![ASF Translate service](pic/ASFTranslateservice-1.jpg)
 
 
 
@@ -128,7 +128,7 @@ Sugar是一个免费开源的桌面环境，为儿童的互动学习而设计。
 
 https://translate.sugarlabs.org/
 
-![Sugar Labs translation platform-1](pic/Sugar Labs translation platform-1.jpg)
+![Sugar Labs translation platform-1](pic/SugarLabstranslationplatform-1.jpg)
 
 
 
