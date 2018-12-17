@@ -326,12 +326,18 @@ http://translate.sourceforge.net/wiki/pootle/live_servers
 
 ​	创建了一个单独的网站（confluence.translate5.net），在这个网站上，用户和开发者都可以讨论发布信息。同时这也是一个技术文档的发布点，所有的使用信息都在这个网站上。不过这个网站暂时不是为了译员沟通而设置的，基本都是针对产品本身存在的问题等提出讨论或改进想法。但是译员作为用户可以在平台上反应自己的需求等，以便更好的改进产品。
 
-
+![](F:\桌面文件夹汇总\研究生课程\翻译技术原理与实践\讨论题\第四次\Communication\pic\translate5website.png)
 
 ##### 4.4.3 知识管理中的文件参考
 
 ​	有参考文件功能，译员登录后下载参考文件可以了解翻译项目。
 
+![](F:\桌面文件夹汇总\研究生课程\翻译技术原理与实践\讨论题\第四次\Communication\pic\cankao.png)
+
 ##### 4.4.4 质量控制中的账户类型控制
 
 ​	不同项目登录账户类型（manager，proofheader，editor，visitor，translator），如项目经理账户可以上传管理术语库，并决定可以使用的译员账户权限。
+
+![](F:\桌面文件夹汇总\研究生课程\翻译技术原理与实践\讨论题\第四次\Communication\pic\translate5manager.png)
+
+![translate5proofhead](F:\桌面文件夹汇总\研究生课程\翻译技术原理与实践\讨论题\第四次\Communication\pic\translate5proofhead.png)
