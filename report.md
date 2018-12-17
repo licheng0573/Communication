@@ -162,7 +162,7 @@ http://docs.translatehouse.org/projects/pootle/en/latest/features/index.html
 
   对于各种语言中，键盘上不方便输入的字符，在编辑区提供选择。用户可以直接点击使用。
 
-  ![1544798303333](C:\Users\40603\AppData\Roaming\Typora\typora-user-images\1544798303333.png)
+  ![1544798303333](pic/edit.png)
 
 - Quality checks
 
@@ -172,7 +172,7 @@ http://docs.translatehouse.org/projects/pootle/en/latest/features/index.html
 
   对于重要错误，会显示在提交按钮前。用户需要修改或者Mute。
 
-  ![failing-checks](C:\Users\40603\Desktop\翻译技术原理\第四次作业\failing-checks.png)
+  ![failing-checks](pic/failing-checks.png)
 
 - Translation Memory
 
@@ -192,9 +192,9 @@ http://docs.translatehouse.org/projects/pootle/en/latest/features/index.html
 
   提供键盘快捷键操作。
 
-  ![shortcuts-edit](C:\Users\40603\Desktop\翻译技术原理\第四次作业\shortcuts-edit.jpg)
+  ![shortcuts-edit](pic/shortcuts-edit.jpg)
 
-  ![shortcuts-navi](C:\Users\40603\Desktop\翻译技术原理\第四次作业\shortcuts-navi.jpg)
+  ![shortcuts-navi](pic/shortcuts-navi.jpg)
 
 - Translation suggestions
 
