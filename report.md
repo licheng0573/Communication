@@ -294,17 +294,17 @@ http://translate.sourceforge.net/wiki/pootle/live_servers
 
 ​	片段内容显示区包括术语查询、译文评级评分。
 
-
+![](F:\桌面文件夹汇总\研究生课程\翻译技术原理与实践\讨论题\第四次\Communication\pic\pianduanneirong.png)
 
 ​	工具区大致包含了确认，向上，向下，标注，退出操作等简单操作命令。
 
-
+![](F:\桌面文件夹汇总\研究生课程\翻译技术原理与实践\讨论题\第四次\Communication\pic\toolarea.png)
 
 ​	翻译记忆区包括matches和concordance search，支持API调用机器翻译，采用Moses standard connector和Lucy LT connector。
 
 通过快捷键ctrl+f/ctrl+h可以弹出查找与替换选项卡，支持通配符匹配和正则表达式。
 
-
+![](F:\桌面文件夹汇总\研究生课程\翻译技术原理与实践\讨论题\第四次\Communication\pic\chazhao.png)
 
 #### 4.4 特色功能
 
