@@ -98,7 +98,7 @@ https://wiki.openoffice.org/wiki/Pootle_User_Guide
 
 **Official Pootle Translate server used by ASF projects:**
 
-![ASF Translate service](C:\Users\40603\Desktop\翻译技术原理\第四次作业\ASF Translate service-1.jpg)
+![ASF Translate service](pic/ASF Translate service-1.jpg)
 
 
 
@@ -128,7 +128,7 @@ Sugar是一个免费开源的桌面环境，为儿童的互动学习而设计。
 
 https://translate.sugarlabs.org/
 
-![Sugar Labs translation platform-1](C:\Users\40603\Desktop\翻译技术原理\第四次作业\Sugar Labs translation platform-1.jpg)
+![Sugar Labs translation platform-1](pic/Sugar Labs translation platform-1.jpg)
 
 
 
@@ -156,7 +156,7 @@ http://docs.translatehouse.org/projects/pootle/en/latest/features/index.html
 
   翻译时可以查看其他语言的翻译以消除歧义。用户可以在帐户设置中设置希望显示的语言。
 
-  ![Features-其他语言](https://github.com/licheng0573/Communication/blob/master/pic/Features-其他语言.jpg)
+  ![Features-其他语言](pic/Features-其他语言.jpg)
 
 - Special characters
 
@@ -168,7 +168,7 @@ http://docs.translatehouse.org/projects/pootle/en/latest/features/index.html
 
   质量问题会明显地显示在页面上方。
 
-  ![critical_errors](C:\Users\40603\Desktop\翻译技术原理\第四次作业\critical_errors.png)
+  ![critical_errors](pic/critical_errors.png)
 
   对于重要错误，会显示在提交按钮前。用户需要修改或者Mute。
 
