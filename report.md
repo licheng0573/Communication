@@ -755,7 +755,7 @@ Zanata旨在集成到内容工作流程中，提供自动命令，可以将可�
 
 zanata致力于更广泛的社区联系，并为希望引入他们的想法并开展工作的新贡献者建立一个生态系统。
 
-来源：2012  opensource.com
+来源: opensource.com
 
 #### zanata 的一些优势（对比gitnub）
 
@@ -798,6 +798,10 @@ Fedora 本地化工作.(与zanata都是red hat Inc.)
 **FUEL project术语模块的贡献**
 
 FUEL是一项开源工作，旨在解决计算机软件本地化不一致和缺乏标准化的问题。为翻译语言的计算机用户提供标准和一致的指导。 FUEL致力于创建语言和技术资源，如标准化术语资源，计算机翻译风格和会议指南以及评估方法。此项目是在zanata平台上进行的。
+
+**Hyperledger本地化**
+超级账本，即Linux基金会于2015年发起的推进区块链数字技术和交易验证的开源项目。
+
 #### 特点：
 
 使用Zanata翻译平台的好处之一是，它能够从永久链接中提取翻译，用户可以使用少量命令将其安装到自己的系统上。
@@ -812,11 +816,19 @@ zanata 的代码资源在github上：https://github.com/zanata
 
 每个人都可以选择自己的语言对一个文档进行翻译。
 
+实时显示其他译者的工作
+
+
 #### 译员沟通：
 
 论坛等。如Fedora本地化项目在hyperkitty上。
 
 游戏的本地化一般为翻译爱好者自发组织，将项目放在zanata上，译者之间在论坛相互交流
+
+项目论坛、社区、wiki页面，讨论板块，发布项目进程与规划
+
+Zanata平台可实时看到其他译者的更新，提供聊天室沟通
+
 
 #### 项目管理
 
@@ -834,9 +846,12 @@ Fedora社区：只有三分之一是红帽员工，一个健康有序的社区�
 
 版本发布工程组及其他各种各样的工作组，他们都有各自的关注领域和关注点。
 
-重要的一点就是这些工作组、委员会，这些机构，他们的会议是公开的，他们进行的讨论也是公开的，就是全世界都可以看到，因此，红帽不可能过度影响这样一个社区的运作，其他的竞争公司也没办法过度影响它的运作，因为全世界都在看着。无论红帽公司还是其他公司都没有办法在大家已经达成一致的时候跳出来反对。
+#### 知识管理：
+翻译记忆库；在项目wiki页面发布术语规范、译文、学习资料
+#### 质量控制：
+项目的只读模式 ，句段状态标注（translated/approved/needs work/rec）
 
-社区回报：所有贡献者都能够从为开源社区所做的贡献中得到自己想要的东西，比如说有的贡献者有机会通过开源社区的贡献提升了自己在一个新的技术领域的技能，这个有可能能够促进他得到升职，或者是促进他得到新工作，而这种晋升或换工作可能是在红帽，也可能是在其他公司，对于另外一些个人的贡献者来说，他做的贡献可能就是解决了自己所面临的一个具体的问题，这样他就从中得到了获得感，得到了回报。
+
 
 #### 工作流程
 
@@ -865,9 +880,9 @@ Hyperledger中国工作组(TWGC)下属的一个小组，主要负责相关文档
 
    在右侧输入译文，编辑完后会自动保存；下侧是翻译提示内容，可直接`copy`；也可以点击`使用新版`体验新版翻译页面。
 
-   **注意：翻译中的固定术语尽量按照翻译提示统一命名，以免混乱！！！**
+   **注意：翻译中的固定术语尽量按照翻译提示统一命名，以免混乱**
 
-   **注意：翻译中的原文特有的格式符号（如---、====等）一定要保留！！！**
+   **注意：翻译中的原文特有的格式符号（如---、====等）一定要保留**
 
 
 8. 译文显示
@@ -1209,3 +1224,22 @@ http://tech.ifeng.com/a/20171204/44789741_0.shtml
 http://tech.qq.com/a/20180523/027243.html
 
 http://tech.ifeng.com/a/20171109/44753017_0.shtml
+
+https://www.redhat.com/zh
+
+https://opensource.com/
+
+https://opensourcecom/article/17/6/open-source-localization-tools
+
+https://www.youtube.com/watch?v=zTaIg_jGQVc
+
+https://www.youtube.com/watch?v=ZxqrTkT2XOI
+
+https://fedoraproject.org/wiki/L10N/Translate_on_Zanata/zh-cn#Fedora_.E6.9C.AC.E5.9C.B0.E5.8C.96.E5.B7.A5.E4.BD.9C.E6.8C.87.E5.8D.97.EF.BC.88.E6.96.B0.E7.9A.84.EF.BC.89
+
+https://opensource.com/life/12/11/zanata-new-open-source-translation-platform
+
+https://linux.cn/article-8646-1.html
+
+https://hyperledgercn.github.io/hyperledgerDocs/zanata_guide/
+
